@@ -1,9 +1,9 @@
-Title & Source (where you found it)
-File Format(s)
-Size (rows, columns, or file size)
-Basic statistics (e.g., ranges, averages, min/max for numeric columns)
-Geographic or temporal coverage (e.g., “Covers traffic data in New York, 2015–2023”)
-License (Is it open? What are the conditions for reuse?)
+Title & Source (where you found it)  
+File Format(s)  
+Size (rows, columns, or file size)  
+Basic statistics (e.g., ranges, averages, min/max for numeric columns)  
+Geographic or temporal coverage (e.g., “Covers traffic data in New York, 2015–2023”)  
+License (Is it open? What are the conditions for reuse?)  
 
 1. Zur Krankenversicherung befragte Personen: Deutschland, Jahre, Art des Krankenversicherungsverhältnisses, Altersgruppen, found in Genesis D Statis- Statistisches Bundesamt
 2.  downloadable as XLSX, CSV, and CSV (Flat)
